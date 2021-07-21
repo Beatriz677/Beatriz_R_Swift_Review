@@ -155,7 +155,7 @@ selected person
 
 Test it by using your own name*/
 enum group {
-    case beatriz, muhammad, jorge, alfonso, vivian, charmarie, jonathan
+    case beatriz, muhammad, jorge, alfonso, vivian, charmarie, noah
 }
 var birthdays = group.beatriz
 switch birthdays {
@@ -166,7 +166,7 @@ case .jorge:String()
 case .alfonso:String()
 case .vivian:String()
 case .charmarie:String()
-case .jonathan:String()
+case .noah:String()
 }
 
 /*:
